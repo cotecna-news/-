@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cotecna-news.github.io/-/sitemap.xml
